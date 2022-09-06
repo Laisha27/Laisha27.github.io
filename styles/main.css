@@ -6,5 +6,14 @@ body {
 a:focus, a:hover{
     font-style: italic;
     color: orangered;
-
+}
+header h1{
+    font-size: 175%;
+    color: maroon;
+    text-indent: 30 px;
+}
+header h{
+    font-size: 130%;
+    color: #800000;
+    text-indent: 30 px;
 }
