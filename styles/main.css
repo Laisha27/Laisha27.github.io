@@ -21,6 +21,7 @@ header h2{
 } 
 img {
     float: left;
+    clear: left;
     
 }
  
