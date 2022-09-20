@@ -51,7 +51,7 @@ clear: left;
 main h3 {
     font-size: 105;
     margin: 3em 2em 1.5em;
-    border: 5px blue;
+    border: 5px double blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
@@ -61,7 +61,7 @@ main h3 {
 main nav {
     font-size: 105%;
     margin: 1.5em 2em 1.5em;
-    border: 5px blue;
+    border: 5px dashed blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding: 0.5em;
@@ -73,7 +73,7 @@ main div.contact{
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
-    
+
 }
 
 #list {
