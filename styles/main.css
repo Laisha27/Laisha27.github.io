@@ -19,9 +19,16 @@ header h2{
     text-indent: 30 px;
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
 } 
-img {
+header img {
     float: left;
       
     
 }
+main{
+clear: left;
+
+}
+
+
+
  
