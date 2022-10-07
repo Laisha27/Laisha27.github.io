@@ -71,9 +71,9 @@ aside{
     background-color: #ffebc6;
 }
 footer{
-    border-top: 2px solid maroon;
     clear: both;
-    
+    border-top: 2px solid maroon;
+       
 }
 
 footer p.CopyRight {
