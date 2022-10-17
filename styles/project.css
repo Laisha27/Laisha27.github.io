@@ -78,6 +78,7 @@ aside{
 }
 footer{
     clear: both;
+    margin-top: e2m;
     border-top: 2px solid maroon;
     padding-top: .7em;
        
