@@ -17,7 +17,7 @@ box-shadow: 5px 5px 0 0;
 
 Header{
     padding-bottom: 1em;
-    border-bottom: 2px solid #800000;
+    border-bottom: 2px solid maroon;
     
 }
 a:focus, a:hover{
