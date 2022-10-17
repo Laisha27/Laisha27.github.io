@@ -20,7 +20,7 @@ body {
 }
 a:focus, a:hover{
     font-style: italic;
-    color: pink;
+    color: orangered;
 }
 header h1{
     font-size: 175%;
