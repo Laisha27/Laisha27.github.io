@@ -13,7 +13,11 @@
     #nav_menu ul li a.lastitem { border-right: none; }
     #nav_menu ul li a.current { color: yellow; }
 
-article{ clear: left;}    
+article{ 
+    clear: left;
+    margin: 10px;
+
+}    
 
 aside ol{
     list-style-type: upper-roman;
