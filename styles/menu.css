@@ -14,9 +14,8 @@
     #nav_menu ul li a.current { color: yellow; }
 
 article{ 
-    clear: left;
+    clear: left; 
     margin: 10px;
-    padding: 10px;
 
 }    
 
