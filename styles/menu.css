@@ -14,6 +14,11 @@ body {
     padding-bottom: 1em;
     border-bottom: 2px solid blue; 
 }
+header{
+    padding-bottom: 1em;
+    border-bottom: 2px solid blue;
+}
+
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; }
 #nav_menu ul li {
