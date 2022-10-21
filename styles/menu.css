@@ -61,6 +61,12 @@ aside{
     padding: 0.1em 1em 1em;
     background-color: #ffebc6;
 }
+a:focus, a:hover{
+    font-style: italic;
+    color: orangered;
+    border: 3px blue;
+    border-style: dotted solid;}
+
 aside ol{
     list-style-type: upper-roman;
 }
