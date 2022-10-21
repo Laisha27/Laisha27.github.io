@@ -53,6 +53,12 @@ article p::first-letter {
     font-style: italic;
     color: black;
 }
+aside{
+    width: 20%;
+    float: right;
+    padding: 0.1em 1em 1em;
+    background-color: #ffebc6;
+}
 aside ol{
     list-style-type: upper-roman;
 }
