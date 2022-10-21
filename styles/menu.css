@@ -17,11 +17,11 @@ header{
     padding-bottom: 1em;
     border-bottom: 2px solid blue;
 }
-header h1{
+article h1{
     color: blue;
     text-indent: 30px;
 }
-header h2{
+article h2{
     color: blue;
     text-indent: 30px;
 }
