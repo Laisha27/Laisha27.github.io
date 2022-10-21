@@ -63,8 +63,8 @@ aside{
 }
 a:focus, a:hover{
     font-style: italic;
-    color: orangered;
-    border: 3px blue;
+    color: yellow;
+    border: 3px white;
     border-style: dotted solid;}
 
 aside ol{
