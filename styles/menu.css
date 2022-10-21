@@ -14,8 +14,8 @@ body {
  
 }
 header{
-    padding-bottom: 4em;
-    border-bottom: 2px solid blue;
+    padding-bottom: 8em;
+    border-bottom: 4px solid blue;
 }
 article h1{
     color: blue;
