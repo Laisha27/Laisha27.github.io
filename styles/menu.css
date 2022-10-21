@@ -33,7 +33,7 @@ article h2{
     width: 175px;
     padding: 1em 0; /*padding above and below a elements*/
     text-decoration: none;
-    background-color: pink;
+    background-color: rgb(192, 235, 255);
     color: white;
     font-weight: bold;
     border-right: 2px solid white;}
