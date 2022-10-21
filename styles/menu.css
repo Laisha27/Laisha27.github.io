@@ -14,7 +14,7 @@ body {
  
 }
 header{
-    padding-bottom: 8em;
+    padding-bottom: 4em;
     border-bottom: 4px solid blue;
 }
 article h1{
@@ -69,6 +69,10 @@ aside{
     background-color: #75c9d1;
     border: blue;
 
+}
+aside{
+    border: blue;
+    
 }
 a:focus, a:hover{
     font-style: italic;
