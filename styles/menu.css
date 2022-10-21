@@ -11,8 +11,7 @@ body {
     border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
-    padding-bottom: 1em;
-    border-bottom: 2px solid blue; 
+ 
 }
 header{
     padding-bottom: 1em;
