@@ -1,6 +1,6 @@
-#nav_menu ul { list-style-type: none; }
-#nav_menu ul li { float: left; }
-#nav_menu ul li {
+#nav_exam ul { list-style-type: none; }
+#nav_exam ul li { float: left; }
+#nav_exam ul li {
     text-align: center;
     display: block;
     width: 175px;
