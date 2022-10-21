@@ -19,7 +19,7 @@ html{
 article{ 
     clear: left; 
     margin: 10px;
-    width: 70%;
+    width: 75%;
     float: left;
     column-count: 3;
     column-rule: 2px dotted maroon;
