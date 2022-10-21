@@ -66,7 +66,9 @@ aside{
     width: 20%;
     float: right;
     padding: 0.1em 1em 1em;
-    background-color: #ffebc6;
+    background-color: #75c9d1;
+    border: blue;
+
 }
 a:focus, a:hover{
     font-style: italic;
