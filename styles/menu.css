@@ -64,8 +64,7 @@ aside{
 a:focus, a:hover{
     font-style: italic;
     color: yellow;
-    border: 3px white;
-    border-style: dotted solid;}
+    }
 
 aside ol{
     list-style-type: upper-roman;
