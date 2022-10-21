@@ -1,3 +1,6 @@
+html{
+    background-image: linear-gradient(to left, white 0%, rgb(0, 221, 255) 100%);
+}
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; }
 #nav_menu ul li {
@@ -22,8 +25,10 @@ article{
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-
 }    
+article h3{
+    column-span: all;
+}
 
 article img{
     float: left;
