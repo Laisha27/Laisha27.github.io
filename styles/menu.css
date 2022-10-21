@@ -47,6 +47,12 @@ aside ol{
 aside ul{
     list-style-type: square;
 }
+footer{
+    clear: both;
+    margin-top: 2em;
+    border-top: 2px solid blue;
+    padding-top: .7em;
+}
 footer p.CopyRight {
     text-align: center;
     font-size: 80%;
