@@ -47,3 +47,7 @@ aside ol{
 aside ul{
     list-style-type: square;
 }
+footer p.CopyRight {
+    text-align: center;
+    font-size: 80%;
+}
