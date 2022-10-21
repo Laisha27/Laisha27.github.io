@@ -21,6 +21,10 @@ header h1{
     color: blue;
     text-indent: 30px;
 }
+header h2{
+    color: blue;
+    text-indent: 30px;
+}
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; }
 #nav_menu ul li {
