@@ -87,3 +87,12 @@ html, body {
     }
     /*----end of menu*/
     
+    section a {
+        text-decoration: none;
+        color: white;
+    }
+
+    menu a:hover{
+
+
+    }
