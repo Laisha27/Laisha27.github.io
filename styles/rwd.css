@@ -95,7 +95,7 @@ body {
         color: white;
     }
 
-    menu a:hover{
+    .menu a:hover, .menu a:current {
         text-decoration: underline;
     }
 
@@ -123,6 +123,8 @@ body {
         font-size: .8em;
 
     }
+
+@media only screen and (max-width: 700px) {
     .menu-button-container {
         display: flex;
     }
@@ -174,4 +176,4 @@ body {
         text-align: center;
         font-size: .6em;
     }
-    
+}
