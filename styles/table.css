@@ -43,5 +43,10 @@ html, body {
             padding: 0;
         }    
     }
+     /*-----------------------------------------------------------*/
+     Table.third th {
+        background-color: lightgreen;
+
+    }
     
     
