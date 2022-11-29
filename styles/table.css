@@ -48,8 +48,6 @@ html, body {
         border-collapse: collapse; 
         border: none;   
         caption-side: bottom;
-
-
      }
      Table.third th {
         background-color: lightgreen;
