@@ -45,13 +45,18 @@ html, body {
     }
      /*-----------------------------------------------------------*/
      Table.third{
-        border-collapse: collapse; 
+        border-collapse: separate; 
         border: none;   
         caption-side: bottom;
      }
      Table.third th {
         background-color: lightgreen;
 
+    }
+    table.third th, table.third td {
+        padding: 0.7em;  
+        vertical-align: middle;
+        border: 2px solid purple;
     }
     
     
