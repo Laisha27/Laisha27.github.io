@@ -52,6 +52,7 @@ html, body {
     table.third th, table.third td {
         padding: 0.7em;  
         vertical-align: top;
+        padding-left: 0.7em;
     }
     table.second thead tr:first-child{ 
         border-bottom: solid orange;
