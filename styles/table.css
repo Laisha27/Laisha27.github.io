@@ -46,6 +46,8 @@ html, body {
         padding-top: 2px;
         border-top: solid orange;
         border-bottom: solid orange;
+        padding: 0.7em;
+        vertical-align: top;
     }
     table.third th, table.third td {
         padding: 0.7em;  
