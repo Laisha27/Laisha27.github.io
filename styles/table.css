@@ -45,6 +45,7 @@ html, body {
         background-color: lightgreen;
         padding-top: 2px;
         border-top: solid orange;
+        border-bottom: solid orange;
 
 
     }
