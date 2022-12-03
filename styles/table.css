@@ -53,6 +53,9 @@ html, body {
         padding: 0.7em;  
         vertical-align: top;
     }
+    table.second thead tr:first-child{ 
+        border-bottom: solid orange;
+    }
     @media only screen and (max-width: 425px) {
         th, td {
             display: block;
