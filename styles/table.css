@@ -37,7 +37,7 @@ html, body {
       
      /*-----------------------------------------------------------*/
      Table.third{
-        border-collapse: separate; 
+        border-collapse: collapse; 
         border: none;   
         caption-side: bottom;
      }
@@ -45,7 +45,6 @@ html, body {
         background-color: lightgreen;
         padding-top: 2px;
         border-top: solid orange;
-
 
 
     }
