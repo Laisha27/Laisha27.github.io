@@ -54,7 +54,7 @@ html, body {
         vertical-align: top;
         padding-left: 0.7em;
     }
-    table.third thead tr:last-child  { 
+    table.third tr:last-child  { 
         padding-bottom: 2px;
         border-bottom: solid orange;
     }
