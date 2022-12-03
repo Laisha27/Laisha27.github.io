@@ -55,6 +55,7 @@ html, body {
         padding-left: 0.7em;
     }
     table.third thead tr:last-child  { 
+        padding-bottom: 2px;
         border-bottom: solid orange;
     }
     @media only screen and (max-width: 425px) {
