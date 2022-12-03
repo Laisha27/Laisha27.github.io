@@ -57,6 +57,7 @@ html, body {
     table.third tr:last-child  { 
         padding-bottom: 2px;
         border-bottom: solid orange;
+        vertical-align: top;
     }
     @media only screen and (max-width: 425px) {
         th, td {
