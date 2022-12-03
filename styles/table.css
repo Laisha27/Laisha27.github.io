@@ -43,6 +43,10 @@ html, body {
      }
      Table.third th {
         background-color: lightgreen;
+        padding-top: 2px;
+        border-top: solid orange;
+
+
 
     }
     table.third th, table.third td {
