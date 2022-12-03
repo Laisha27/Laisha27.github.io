@@ -49,8 +49,7 @@ html, body {
         padding: 0.7em;
         vertical-align: top;
     }
-    table.third th, table.third td {
-        padding: 0.7em;  
+    table.third th, table.third td {  
         vertical-align: top;
         padding-left: 0.7em;
     }
