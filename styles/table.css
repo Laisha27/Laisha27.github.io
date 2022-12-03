@@ -51,7 +51,6 @@ html, body {
     table.third th, table.third td {
         padding: 0.7em;  
         vertical-align: top;
-        border-top: 2px solid orange;
     }
     @media only screen and (max-width: 425px) {
         th, td {
