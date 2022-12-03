@@ -44,10 +44,8 @@ html, body {
      Table.third th {
         background-color: lightgreen;
         padding-top: 2px;
-        border-top: solid pink;
+        border-top: solid orange;
         border-bottom: solid orange;
-
-
     }
     table.third th, table.third td {
         padding: 0.7em;  
