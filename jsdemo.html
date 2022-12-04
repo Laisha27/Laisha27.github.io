@@ -2,11 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta http-equiv="description" content="Laisha Rincon personal web site at sam houston state university">
+    <meta name="keywords" content="Laisha Rincon, assosiate  professor, mis, sam houston state university">
+    <title>Laisha27.github.io jsdemo</title>
+    <link rel="test_scores.js" href="test_scores.js/.css">
 </head>
 <body>
+    <h1>The Test Scores App</h1>
+<script src="test_scores.js"></script>   
+<h1>The Miles Per Gallon Calculator</h1>
+<script>
+        const miles = parseInt(prompt("Enter miles driven"));
+        const gallons = parseInt(prompt("Enter gallons of gas used"));
+        const mpg = parseFloat(miles/gallons);
+        const html2 = `<p>Miles: ${miles}</p>
+                        <p>Gallons: ${gallons}</p>
+                        <p>MPG: ${mpg.toFixed(2)}</p>`;
+        document.write(html2);
+</script>    
+
     
 </body>
 </html>
